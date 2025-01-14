@@ -2,7 +2,8 @@ How to Install and Run the Project
 1. Clone the Repository
 To get started, clone the repository to your local machine using the following command:
 
-git clone <repository-url>
+git clone https://github.com/Smurfstuffy/cardealerapp.git
+
 cd cardealerapp
 
 2. Install Dependencies
